@@ -172,6 +172,7 @@ function renderGames() {
                             src="${game.imagem}"
                             alt="${game.nome}"
                             loading="lazy"
+                            decoding="async"
                         >
                     </div>
 
@@ -251,9 +252,8 @@ function openGame(game) {
         <div class="prints-section">
             <h2 class="prints-title">Prints</h2>
 
-            ${
-                game.prints && game.prints.length > 0
-                    ? `
+            ${game.prints && game.prints.length > 0
+            ? `
                         <div class="prints-grid">
                             ${game.prints.map(print => `
                                 <div class="print-card" data-print="${print}">
@@ -262,17 +262,18 @@ function openGame(game) {
                                         src="${print}"
                                         alt="Print de ${game.nome}"
                                         loading="lazy"
+                                        decoding="async"
                                     >
                                 </div>
                             `).join("")}
                         </div>
                     `
-                    : `
+            : `
                         <div class="no-prints">
                             Nenhum print adicionado para este jogo.
                         </div>
                     `
-            }
+        }
         </div>
     `;
 
