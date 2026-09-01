@@ -1,2 +1,2 @@
-# finalizados
-Meu registro
+# Finalizados
+Jogos finalizados pela família Paschoalinoto

@@ -1,0 +1,112 @@
+{
+    "profiles": {
+        "hastriv": {
+            "nome": "Hastriv",
+            "foto": "images/profiles/hastriv.jpg",
+            "descricao": "Joguinhos que zerei.",
+            "jogos": [
+                {
+                    "nome": "Pokémon Legends Z-A",
+                    "plataforma": "Nintendo Switch 2",
+                    "imagem": "images/games/pokemon-legends-za/cover.jpg",
+                    "data_finalizacao": "2026-09-01",
+                    "avaliacao": 6,
+                    "prints": [
+                        "images/games/pokemon-legends-za/print-01.jpg",
+                        "images/games/pokemon-legends-za/print-02.jpg",
+                        "images/games/pokemon-legends-za/print-03.jpg",
+                        "images/games/pokemon-legends-za/print-04.jpg",
+                        "images/games/pokemon-legends-za/print-05.jpg",
+                        "images/games/pokemon-legends-za/print-06.jpg",
+                        "images/games/pokemon-legends-za/print-07.jpg",
+                        "images/games/pokemon-legends-za/print-08.jpg",
+                        "images/games/pokemon-legends-za/print-09.jpg",
+                        "images/games/pokemon-legends-za/print-10.jpg"
+                    ]
+                },
+                {
+                    "nome": "Donkey Kong Bananza",
+                    "plataforma": "Nintendo Switch 2",
+                    "imagem": "images/games/dk-bananza/cover.jpg",
+                    "data_finalizacao": "2026-08-30",
+                    "avaliacao": 9,
+                    "prints": [
+                        "images/games/dk-bananza/print-01.jpg",
+                        "images/games/dk-bananza/print-02.jpg",
+                        "images/games/dk-bananza/print-03.jpg"
+                    ]
+                },
+                {
+                    "nome": "Zelda Breath of the Wild",
+                    "plataforma": "Nintendo Switch",
+                    "imagem": "images/games/zelda-botw/cover.jpg",
+                    "data_finalizacao": "2024-11-25",
+                    "avaliacao": 10,
+                    "prints": [
+                        "images/games/zelda-botw/print-01.jpg",
+                        "images/games/zelda-botw/print-02.jpg",
+                        "images/games/zelda-botw/print-03.jpg",
+                        "images/games/zelda-botw/print-04.jpg"
+                    ]
+                },
+                {
+                    "nome": "Children of Morta",
+                    "plataforma": "Nintendo Switch",
+                    "imagem": "images/games/children-of-morta/cover.jpg",
+                    "data_finalizacao": "2024-10-25",
+                    "avaliacao": 10,
+                    "prints": [
+                        "images/games/children-of-morta/print-01.jpg"
+                    ]
+                },
+                {
+                    "nome": "Top Gear",
+                    "plataforma": "Nintendo Switch",
+                    "imagem": "images/games/top-gear/cover.jpg",
+                    "data_finalizacao": "2024-09-25",
+                    "avaliacao": 10,
+                    "prints": [
+                        "images/games/top-gear/print-01.jpg"
+                    ]
+                }
+            ]
+        },
+        "karina": {
+            "nome": "Karina",
+            "foto": "images/profiles/karina.jpg",
+            "descricao": "Minha coleção de jogos finalizados.",
+            "jogos": [
+                {
+                    "nome": "Princess Peach Showtime",
+                    "plataforma": "Nintendo Switch",
+                    "imagem": "images/games/princess-peach-showtime/cover.jpg",
+                    "data_finalizacao": "2026-08-29",
+                    "avaliacao": 6,
+                    "prints": [
+                        "images/games/princess-peach-showtime/print-01.jpeg",
+                        "images/games/princess-peach-showtime/print-02.jpeg",
+                        "images/games/princess-peach-showtime/print-03.jpeg",
+                        "images/games/princess-peach-showtime/print-04.jpeg",
+                        "images/games/princess-peach-showtime/print-05.jpeg"
+                    ]
+                }
+            ]
+        },
+        "miguel": {
+            "nome": "Miguel",
+            "foto": "images/profiles/miguel.jpg",
+            "descricao": "Jogos que eu já cheguei ao fim.",
+            "jogos": [
+                {
+                    "nome": "Megaton Musashi W",
+                    "plataforma": "Nintendo Switch",
+                    "imagem": "images/games/megaton-musashi-w/cover.jpg",
+                    "data_finalizacao": "2025-06-01",
+                    "avaliacao": 10,
+                    "prints": [
+                    ]
+                }
+            ]
+        }
+    }
+}
