@@ -10,7 +10,7 @@
                     "plataforma": "Nintendo Switch 2",
                     "imagem": "images/games/pokemon-legends-za/cover.jpg",
                     "data_finalizacao": "2026-09-01",
-                    "avaliacao": 6,
+                    "avaliacao": 7.2,
                     "prints": [
                         "images/games/pokemon-legends-za/print-01.jpg",
                         "images/games/pokemon-legends-za/print-02.jpg",
@@ -53,7 +53,7 @@
                     "nome": "Children of Morta",
                     "plataforma": "Nintendo Switch",
                     "imagem": "images/games/children-of-morta/cover.jpg",
-                    "data_finalizacao": "2024-10-25",
+                    "data_finalizacao": "2024-11-15",
                     "avaliacao": 10,
                     "prints": [
                         "images/games/children-of-morta/print-01.jpg"
@@ -63,7 +63,7 @@
                     "nome": "Top Gear",
                     "plataforma": "Nintendo Switch",
                     "imagem": "images/games/top-gear/cover.jpg",
-                    "data_finalizacao": "2024-09-25",
+                    "data_finalizacao": "2024-10-27",
                     "avaliacao": 10,
                     "prints": [
                         "images/games/top-gear/print-01.jpg"
