@@ -107,6 +107,27 @@
                     ]
                 }
             ]
+        },
+        "pedro": {
+            "nome": "Pedro",
+            "foto": "images/profiles/pedro.jpg",
+            "descricao": "Jogos que eu já cheguei ao fim.",
+            "jogos": [
+                {
+                    "nome": "Megaton Musashi W",
+                    "plataforma": "Nintendo Switch",
+                    "imagem": "images/games/minecraft-dungeons-ii/cover.jpg",
+                    "data_finalizacao": "2025-06-01",
+                    "avaliacao": 10,
+                    "prints": [
+                        "images/games/minecraft-dungeons-ii/print-01.jpeg",
+                        "images/games/minecraft-dungeons-ii/print-02.jpeg",
+                        "images/games/minecraft-dungeons-ii/print-03.jpeg",
+                        "images/games/minecraft-dungeons-ii/print-04.jpeg",
+                        "images/games/minecraft-dungeons-ii/print-05.jpeg"
+                    ]
+                }
+            ]
         }
     }
 }
