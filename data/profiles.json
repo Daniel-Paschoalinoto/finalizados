@@ -127,6 +127,21 @@
                         "images/games/minecraft-dungeons-ii/print-05.jpeg",
                         "images/games/minecraft-dungeons-ii/print-06.jpeg"
                     ]
+                },
+                {
+                    "nome": "The Last of Us",
+                    "plataforma": "Playstation 3",
+                    "imagem": "images/games/the-last-of-us/cover.jpg",
+                    "data_finalizacao": "2026-10-24",
+                    "avaliacao": 10,
+                    "prints": [
+                        "images/games/the-last-of-us/print-01.jpeg",
+                        "images/games/the-last-of-us/print-02.jpeg",
+                        "images/games/the-last-of-us/print-03.jpeg",
+                        "images/games/the-last-of-us/print-04.jpeg",
+                        "images/games/the-last-of-us/print-05.jpeg",
+                        "images/games/the-last-of-us/print-06.jpeg"
+                    ]
                 }
             ]
         }
