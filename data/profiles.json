@@ -68,6 +68,18 @@
                     "prints": [
                         "images/games/top-gear/print-01.jpg"
                     ]
+                },
+                {
+                    "nome": "Final Fantasy VII - Remake",
+                    "plataforma": "Nintendo Switch 2",
+                    "imagem": "images/games/final-fantasy-vii-remake/cover.jpg",
+                    "data_finalizacao": "2024-10-28",
+                    "avaliacao": 1,
+                    "prints": [
+                        "images/games/final-fantasy-vii-remake/print-01.jpg",
+                        "images/games/final-fantasy-vii-remake/print-02.jpg",
+                        "images/games/final-fantasy-vii-remake/print-03.jpg"
+                    ]
                 }
             ]
         },
